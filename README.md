@@ -1,2 +1,1 @@
-# lichtg.github.io
-Blog
+
