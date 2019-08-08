@@ -2,8 +2,6 @@
 
 # __BLOG OF LICHT__
 
-&nbsp;
-
 Email: lIcht.gzl@gmail.com
 
 &nbsp;
