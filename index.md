@@ -14,5 +14,5 @@ Email: lIcht.gzl@gmail.com
 
 &nbsp;
 
-1. [最简单的方式在github写博客](https://github.com/lIchtg/lichtg.github.io/blob/master/001.md)
+1. [最简单的方式在github写博客](https://raw.githubusercontent.com/lIchtg/lichtg.github.io/master/001.md)
 
