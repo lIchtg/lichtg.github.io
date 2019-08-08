@@ -1,10 +1,8 @@
-![image](https://github.com/lIchtg/lichtg.github.io/blob/master/1.jpeg)
+![image](https://raw.githubusercontent.com/lIchtg/lichtg.github.io/master/images/3.jpeg)
 
 &nbsp;
 
 &nbsp;
-
-
 
 # __BLOG OF LICHT__
 
@@ -13,9 +11,6 @@
 
 Email: lIcht.gzl@gmail.com
 
-&nbsp;
-
-email:  licht.gzl@gmail.com
 &nbsp;
 
 &nbsp;
