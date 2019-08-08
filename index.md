@@ -4,7 +4,7 @@
 
 # __BLOG OF LICHT__
   
-# email:licht.gzl@gmail.com
+email:  licht.gzl@gmail.com
   
   
   
