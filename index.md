@@ -11,6 +11,6 @@ Email: lIcht.gzl@gmail.com
 ##  essays
 
 1. [最简单的方式在github写博客](https://lichtg.github.io/post/001.html)
-
 2. [简单ssr搭建实现科学上网](https://lichtg.github.io/post/002.html)
+3. [Python中链表的实现](https://lichtg.github.io/post/003.html)
 
