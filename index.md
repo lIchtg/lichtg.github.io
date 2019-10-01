@@ -19,3 +19,4 @@ Email: lIcht.gzl@gmail.com
 7. [Python中二叉树及其遍历的实现](https://lichtg.github.io/post/007.html)
 8. [Python中图的实现](https://lichtg.github.io/post/008.html)
 9. [Python中优先队列的实现](https://lichtg.github.io/post/009.html)
+10. [对递归类算法的小总结](https://lichtg.github.io/post/010.html)
