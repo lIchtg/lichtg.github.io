@@ -28,4 +28,5 @@ Email: lIcht.gzl@gmail.com
 16. [odom和imu融合前添加协方差](https://lichtg.github.io/post/016.html)
 17. [ros melodic 安装配置cartographer](https://lichtg.github.io/post/017.html)
 18. [ros GPS信息存储节点](https://lichtg.github.io/post/018.html)
+19. [rosdep init\rosdep update问题解决](https://lichtg.github.io/post/019.html)
 
