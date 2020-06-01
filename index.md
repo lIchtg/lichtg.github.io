@@ -29,4 +29,5 @@ Email: lIcht.gzl@gmail.com
 17. [ros melodic 安装配置cartographer](https://lichtg.github.io/post/017.html)
 18. [ros GPS信息存储节点](https://lichtg.github.io/post/018.html)
 19. [rosdep init\rosdep update问题解决](https://lichtg.github.io/post/019.html)
+20. [Macos 下视频聊天其余媒体音量减小问题](https://lichtg.github.io/post/020.html)
 
