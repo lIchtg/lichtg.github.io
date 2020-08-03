@@ -31,4 +31,5 @@ Email: lIcht.gzl@gmail.com
 19. [rosdep init\rosdep update问题解决](https://lichtg.github.io/post/019.html)
 20. [Macos 下视频聊天其余媒体音量减小问题](https://lichtg.github.io/post/020.html)
 21. [ROS 发送多gps目标点连续导航节点编写](https://lichtg.github.io/post/021.html)
+22. [Linux下Qt程序打包成Deb包](https://lichtg.github.io/post/022.html)
 
