@@ -32,4 +32,5 @@ Email: lIcht.gzl@gmail.com
 20. [Macos 下视频聊天其余媒体音量减小问题](https://lichtg.github.io/post/020.html)
 21. [ROS 发送多gps目标点连续导航节点编写](https://lichtg.github.io/post/021.html)
 22. [Linux下Qt程序打包成Deb包](https://lichtg.github.io/post/022.html)
+23. [恢复Ubuntu系统在移动硬盘上的引导](https://lichtg.github.io/post/023.html)
 
