@@ -33,4 +33,5 @@ Email: lIcht.gzl@gmail.com
 21. [ROS 发送多gps目标点连续导航节点编写](https://lichtg.github.io/post/021.html)
 22. [Linux下Qt程序打包成Deb包](https://lichtg.github.io/post/022.html)
 23. [恢复Ubuntu系统在移动硬盘上的引导](https://lichtg.github.io/post/023.html)
+24. [界面加通讯类Qt软件编写文件管理等经验总结](https://lichtg.github.io/post/024.html)
 
