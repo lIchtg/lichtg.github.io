@@ -34,4 +34,5 @@ Email: lIcht.gzl@gmail.com
 22. [Linux下Qt程序打包成Deb包](https://lichtg.github.io/post/022.html)
 23. [恢复Ubuntu系统在移动硬盘上的引导](https://lichtg.github.io/post/023.html)
 24. [界面加通讯类Qt软件编写文件管理等经验总结](https://lichtg.github.io/post/024.html)
+25. [RobotCup杯自主建图二维码标记功能实现](https://lichtg.github.io/post/025.html)
 
