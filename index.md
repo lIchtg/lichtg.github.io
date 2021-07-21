@@ -35,4 +35,5 @@ Email: lIcht.gzl@gmail.com
 23. [恢复Ubuntu系统在移动硬盘上的引导](https://lichtg.github.io/post/023.html)
 24. [界面加通讯类Qt软件编写文件管理等经验总结](https://lichtg.github.io/post/024.html)
 25. [RobotCup杯自主建图二维码标记功能实现](https://lichtg.github.io/post/025.html)
+26. [ios开发—alloc、init、new的区别](https://lichtg.github.io/post/026.html)
 
